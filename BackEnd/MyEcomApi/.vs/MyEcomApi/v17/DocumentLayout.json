@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Task\\MyEcomApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F480DA62-ACF4-49A1-A458-D66DE98FF62E}|MyEcomApi.UnitTests\\MyEcomApi.UnitTests.csproj|e:\\task\\myecomapi\\myecomapi.unittests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F480DA62-ACF4-49A1-A458-D66DE98FF62E}|MyEcomApi.UnitTests\\MyEcomApi.UnitTests.csproj|solutionrelative:myecomapi.unittests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB2037E-FEF8-4737-9684-77B8AA1685CD}|MyEcomApi.IntegrationTests\\MyEcomApi.IntegrationTests.csproj|e:\\task\\myecomapi\\myecomapi.integrationtests\\productsintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB2037E-FEF8-4737-9684-77B8AA1685CD}|MyEcomApi.IntegrationTests\\MyEcomApi.IntegrationTests.csproj|solutionrelative:myecomapi.integrationtests\\productsintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\migrations\\20250923095316_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\migrations\\20250923095316_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|e:\\task\\myecomapi\\myecomapi\\myecomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC880595-9622-4C49-A611-B3DC770A5670}|MyEcomApi\\MyEcomApi.csproj|solutionrelative:myecomapi\\myecomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyEcomApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyEcomApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T09:13:17.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\ProductDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA7wAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:13:03.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\UserDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:12:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi.UnitTests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "MyEcomApi.UnitTests\\ProductServiceTests.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi.UnitTests\\ProductServiceTests.cs",
+              "RelativeToolTip": "MyEcomApi.UnitTests\\ProductServiceTests.cs",
+              "ViewState": "AgIAABQAAAAAMzMzMzPzvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:39:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:26:51.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Interfaces\\IProductService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:54:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:12:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyEcomApi\\appsettings.json",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\appsettings.json",
+              "RelativeToolTip": "MyEcomApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T09:54:24.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Program.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Program.cs",
+              "RelativeToolTip": "MyEcomApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:09:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "MyEcomApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:53:31.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MyEcomApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:14:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:07:29.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsIntegrationTests.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi.IntegrationTests\\ProductsIntegrationTests.cs",
+              "RelativeDocumentMoniker": "MyEcomApi.IntegrationTests\\ProductsIntegrationTests.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi.IntegrationTests\\ProductsIntegrationTests.cs",
+              "RelativeToolTip": "MyEcomApi.IntegrationTests\\ProductsIntegrationTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:40:01.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MyEcomApi\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:06:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:03:42.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyEcomApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACQAAACAZmZmZmYiwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:09:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyEcomApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:19:51.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Entities\\RefreshToken.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:09:21.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:16:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Services\\TokenService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "MyEcomApi\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:16:50.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefreshRequestDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\RefreshRequestDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\RefreshRequestDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\RefreshRequestDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\RefreshRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:35:28.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250923095316_Initial.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Migrations\\20250923095316_Initial.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Migrations\\20250923095316_Initial.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Migrations\\20250923095316_Initial.cs",
+              "RelativeToolTip": "MyEcomApi\\Migrations\\20250923095316_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:53:17.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:03:27.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Entities\\Product.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAgAAABgZmZmZmYswA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:04:35.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Services\\UserService.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Services\\UserService.cs",
+              "RelativeToolTip": "MyEcomApi\\Services\\UserService.cs",
+              "ViewState": "AgIAACgAAAAAzMzMzMwUwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:07:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:11:46.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyEcomApi\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:06:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyEcomApi\\Core\\Entities\\User.cs",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "MyEcomApi\\Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T06:04:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyEcomApi.csproj",
+              "DocumentMoniker": "E:\\Task\\MyEcomApi\\MyEcomApi\\MyEcomApi.csproj",
+              "RelativeDocumentMoniker": "MyEcomApi\\MyEcomApi.csproj",
+              "ToolTip": "E:\\Task\\MyEcomApi\\MyEcomApi\\MyEcomApi.csproj",
+              "RelativeToolTip": "MyEcomApi\\MyEcomApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T05:25:04.603Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
