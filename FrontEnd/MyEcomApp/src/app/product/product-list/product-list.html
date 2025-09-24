@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Products - MyEcomApp</title>
+  <link rel="stylesheet" href="./product-list.css">
+</head>
+<body>
+  <div class="product-list-container">
+    <h2>Our Products</h2>
+    
+    <div class="error-message" id="error" style="display: none;">
+      Unable to load products. Please try again later.
+    </div>
+
+    <div class="products-grid">
+      <!-- Product 1 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/4a90e2/ffffff?text=Wireless+Headphones" alt="Wireless Headphones" />
+        <h3>Premium Wireless Headphones</h3>
+        <p>Code: WH-2025</p>
+        <p>Category: Electronics</p>
+        <p>Price: $129.99</p>
+        <p>Min Quantity: 1</p>
+        <p>Discount: 15%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+      
+      <!-- Product 2 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/e74c3c/ffffff?text=Smart+Watch" alt="Smart Watch" />
+        <h3>Smart Fitness Watch</h3>
+        <p>Code: SW-2025</p>
+        <p>Category: Wearables</p>
+        <p>Price: $89.99</p>
+        <p>Min Quantity: 1</p>
+        <p>Discount: 10%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+      
+      <!-- Product 3 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/27ae60/ffffff?text=Bluetooth+Speaker" alt="Bluetooth Speaker" />
+        <h3>Portable Bluetooth Speaker</h3>
+        <p>Code: BS-2025</p>
+        <p>Category: Electronics</p>
+        <p>Price: $59.99</p>
+        <p>Min Quantity: 1</p>
+        <p>Discount: 20%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+      
+      <!-- Product 4 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/9b59b6/ffffff?text=Wireless+Charger" alt="Wireless Charger" />
+        <h3>Fast Wireless Charger</h3>
+        <p>Code: WC-2025</p>
+        <p>Category: Accessories</p>
+        <p>Price: $39.99</p>
+        <p>Min Quantity: 1</p>
+        <p>Discount: 5%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+      
+      <!-- Product 5 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/f39c12/ffffff?text=Power+Bank" alt="Power Bank" />
+        <h3>High Capacity Power Bank</h3>
+        <p>Code: PB-2025</p>
+        <p>Category: Electronics</p>
+        <p>Price: $49.99</p>
+        <p>Min Quantity: 1</p>
+        <p>Discount: 12%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+      
+      <!-- Product 6 -->
+      <div class="product-card">
+        <img src="https://placehold.co/300x200/1abc9c/ffffff?text=USB+Cable" alt="USB Cable" />
+        <h3>Durable USB-C Cable</h3>
+        <p>Code: UC-2025</p>
+        <p>Category: Accessories</p>
+        <p>Price: $19.99</p>
+        <p>Min Quantity: 2</p>
+        <p>Discount: 8%</p>
+        <button class="add-to-cart-btn">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Simulate loading products
+    document.addEventListener('DOMContentLoaded', function() {
+      // Simulate an error (uncomment to see error message)
+      // const errorDiv = document.getElementById('error');
+      // errorDiv.style.display = 'block';
+      
+      // Add event listeners to all Add to Cart buttons
+      const addToCartButtons = document.querySelectorAll('.add-to-cart-btn');
+      addToCartButtons.forEach(button => {
+        button.addEventListener('click', function() {
+          const productCard = this.closest('.product-card');
+          const productName = productCard.querySelector('h3').textContent;
+          alert(`Added "${productName}" to your cart!`);
+        });
+      });
+    });
+  </script>
+</body>
+</html>

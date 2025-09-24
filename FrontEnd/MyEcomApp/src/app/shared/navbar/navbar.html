@@ -1,0 +1,19 @@
+<nav class="navbar">
+  <a (click)="goToproductlist()" class="logo">MyEcomApp</a>
+  <ul>
+    <li><a (click)="goToproductlist()">Products</a></li>
+
+   
+    <li class="auth-item login" *ngIf="!isLoggedIn">
+      <a (click)="goToLogin()">Login</a>
+    </li>
+    <li class="auth-item register" *ngIf="!isLoggedIn">
+      <a (click)="goToRegister()">Register</a>
+    </li>
+
+   
+    <li class="auth-item logout" *ngIf="isLoggedIn">
+      <button (click)="logout()">Logout</button>
+    </li>
+  </ul>
+</nav>
