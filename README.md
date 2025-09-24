@@ -83,7 +83,7 @@ src/app/
 ````
 
 - **State Management:** RxJS observables for handling auth state and product data.  
-- **Styling:** SCSS global styles + component-based CSS/SCSS.  
+- **Styling:** SCSS global styles + component-based CSS.  
 
 ---
 
@@ -138,7 +138,18 @@ Frontend will run on:
 * **Auth:** JWT, Refresh Tokens
 
 ---
+## 📷 Screenshots
 
+<img width="566" height="491" alt="image" src="https://github.com/user-attachments/assets/84097521-9bb1-4649-a2ca-3341f2217e0a" />
+
+<img width="468" height="621" alt="image" src="https://github.com/user-attachments/assets/08b64b79-1fd1-41ea-ab36-e97b0e50bdfa" />
+
+<img width="337" height="432" alt="image" src="https://github.com/user-attachments/assets/85310e9c-6b85-47fd-bdbd-5b03430b999c" />
+
+<img width="654" height="650" alt="image" src="https://github.com/user-attachments/assets/26592ef1-d9d0-4da6-ae69-3350a67d46f4" />
+
+
+________
 ## ✨ Future Improvements
 
 * Shopping cart & checkout.
